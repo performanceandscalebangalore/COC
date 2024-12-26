@@ -29,4 +29,4 @@ Performance & Scale Bangalore Meetup strives to create an inclusive community fo
 
 ## Reporting Greviences
 
-Please contact [performanceandscalebangalore@gmail.com](performanceandscalebangalore@gmail.com) if you observe a violation of this CoC concerning you or with someone else. If the organisers find any violation, the violator will be excluded from the Performance & Scale Bangalore Meetup community right away.
+Please contact <a href="mailto:performanceandscalebangalore@gmail.com">Performance & Scale Organisers</a> if you observe a violation of this CoC concerning you or with someone else. If the organisers find any violation, the violator will be excluded from the Performance & Scale Bangalore Meetup community right away.
